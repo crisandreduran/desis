@@ -1,0 +1,22 @@
+o Nombre Completo: Cristián Andrés Durán Villanueva
+o RUT: 12497806-8
+o Edad: 50 años
+o URL de GitHub o similar: https://github.com/crisandreduran/desis
+o Teléfono: +56 9998 2345
+
+Instalación
+    Copiar la información en la raiz de su contenedor
+    Abrir MySql Server y ejecutar votacion.sql que viene en la raiz del proyecto para la creación de las tablas y datos para iniciar
+
+Herramientas usadas
+    jQuery v3.7.1 | (c) OpenJS Foundation and other contributors | jquery.org/license */ 
+    Bootstrap v5.3.2 (https://getbootstrap.com/) 
+    PHP Version 8.2.12 
+    Apache/2.4.58 (Win64) 
+    mysqlnd 8.2.12
+
+o Nombre Completo
+o RUT
+o Edad
+o URL de GitHub o similar
+o Teléfono

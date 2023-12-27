@@ -1,0 +1,6 @@
+<?php
+
+// Clases
+print "Inicio";
+
+?>

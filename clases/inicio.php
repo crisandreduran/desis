@@ -1,6 +1,0 @@
-<?php
-
-// Clases
-print "Inicio";
-
-?>
